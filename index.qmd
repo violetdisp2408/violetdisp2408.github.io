@@ -2,9 +2,7 @@
 title: "temp_website"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Muhammad Daniyal Hafiz Bin Amran, and I am a Year 1 Student currently pursuing a degree in Applied Artificial Intelligence at SIT! Click on my About page to learn more about me.
 
 ```{r}
 1 + 1
